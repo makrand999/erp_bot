@@ -1,1 +1,1 @@
-#requires bunch of things installed , i will add requirements soon
+# requires bunch of things installed , i will add requirements soon
